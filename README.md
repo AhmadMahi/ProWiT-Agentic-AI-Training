@@ -1,4 +1,4 @@
-# ProWiT – Prodapt Women in Tech
+# ProWiT – Prodapt Women in Tech | ChennAI
 
 ## Agentic AI Nano Bootcamp
 
@@ -8,12 +8,13 @@ This repository contains materials for the **ProWiT (Prodapt Women in Tech)** in
 
 ## 📅 Program Details
 
-* **Program Name:** ProWiT – Prodapt Women in Tech
+* **Program Name:** ProWiT – Prodapt Women in Tech / ChennAI
 * **Type:** 2-Day AI Internship / Nano Bootcamp
 * **Duration:** 16 Hours
 * **Format:** Hands-on · Project-Based · Industry-Focused
 * **Conducted By:** Prodapt
 * **Dates:** *17th And 18th April 2026*
+* **Dates:** *24th And 25th April 2026*
 
 ---
 
